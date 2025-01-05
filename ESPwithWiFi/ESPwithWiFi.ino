@@ -12,12 +12,12 @@
 #define DEEP_SLEEP_TIMER false
 #define DEEP_SLEEP_EXT0 true
 // Replace with your network credentials
-const char* ssid = "Staff";
-const char* password = "Ejust-Staff-2023";
+const char* ssid = "ssid";
+const char* password = "pass";
 
 // Initialize Telegram BOT
-#define BOTtoken "7830050240:AAFHLLzyQTFJAQ3UcEzf1rOhJOgzu9NX31A"  // your Bot Token (Get from Botfather)
-#define CHAT_ID "5990852390"
+#define BOTtoken "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"  // your Bot Token (Get from Botfather)
+#define CHAT_ID "xxxxxxxxxxxxx"
 
 // Initialize Telegram Bot with secure client
 WiFiClientSecure client;
